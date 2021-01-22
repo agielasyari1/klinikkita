@@ -1,37 +1,44 @@
-## Welcome to GitHub Pages
+# Tahap 1
 
-You can use the [editor on GitHub](https://github.com/agielasyari1/klinikkita/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+### Visi & misi
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Visi Klinik kita “TERCIPTANYA PELAYANAN MEDIS YANG AKURAT, CERMAT DAN BERKUALITAS DENGAN MEMANFAATKAN PERKEMBANGAN SI/TI”. 
 
-### Markdown
+ Misi Klinik kita
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Adapun misi yang diusulkan untuk mendukung mewujudkan visi Klinik kita adalah sebagai berikut: 
 
-```markdown
-Syntax highlighted code block
+1) Meningkatkan hubungan dengan dokter dan institusi kesehatan dalam pelayanan pemeriksaan sample dan meningkatkan hubungan dengan pasien dan keluarga pasien dengan memanfaatkan perkembangan SI/TI. 
 
-# Header 1
-## Header 2
-### Header 3
+2) Meningkatkan kerjasama dengan penyedia layanan kesehatan lain dan rujukan sample dengan RSU  dengan memanfaatkan perkembangan SI/TI.
 
-- Bulleted
-- List
+ 3) Meningkatkan penyelenggaraan sistem laporan hasil pemeriksaan kesehatan klinik melalui SI/TI untuk pasien/keluarga dan instansi kesehatan terkait. 
 
-1. Numbered
-2. List
+ Tujuan Klinik INTI Garut Memberikan layanan kesehatan terpadu terhadap masyarakat dengan memanfaatkan perkembangan SI/TI.
 
-**Bold** and _Italic_ and `Code` text
+![image-20210122205322804](C:\Users\agiel\AppData\Roaming\Typora\typora-user-images\image-20210122205322804.png)
 
-[Link](url) and ![Image](src)
-```
+# Tahap 2
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+![image-20210122204643328](C:\Users\agiel\AppData\Roaming\Typora\typora-user-images\image-20210122204643328.png)
 
-### Jekyll Themes
+### Use Case Diagram
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/agielasyari1/klinikkita/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+![image-20210122200558739](C:\Users\agiel\AppData\Roaming\Typora\typora-user-images\image-20210122200558739.png)
 
-### Support or Contact
+### Interaksi Model
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+![image-20210122200650387](C:\Users\agiel\AppData\Roaming\Typora\typora-user-images\image-20210122200650387.png)
+
+# Tahap 3
+
+![image-20210122205435619](C:\Users\agiel\AppData\Roaming\Typora\typora-user-images\image-20210122205435619.png)
+
+![image-20210122205658466](C:\Users\agiel\AppData\Roaming\Typora\typora-user-images\image-20210122205658466.png)
+
+![image-20210122205734043](C:\Users\agiel\AppData\Roaming\Typora\typora-user-images\image-20210122205734043.png)
+
+# Tahap 4
+
+![image-20210122201800755](C:\Users\agiel\AppData\Roaming\Typora\typora-user-images\image-20210122201800755.png)
+
